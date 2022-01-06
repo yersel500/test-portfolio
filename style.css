@@ -10,15 +10,15 @@ body {
   flex-direction: column;
   background-image: url("header-shapes.svg");
   background-size: cover;
-  margin: 30px 0px 0px 0px;
+  margin: 30px 0 0 0;
   padding: 20px;
 }
 
 .first ul {
   display: flex;
   justify-content: space-between;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 .second {
